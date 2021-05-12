@@ -39,3 +39,25 @@ a {
   text-decoration: none;
   color:#76F03E;
 }
+
+/* Learning psuedo classes below */
+/* .submit:hover {
+  background-color:#F41BF5 ;
+}
+
+.submit:focus {
+  background-color: #76F03E;
+}
+
+.name:hover {
+  background-color: #A157F0 ;
+}
+
+.email:disabled {
+  background-color: #4AF0DC ;
+}
+
+.name:required {
+  background-color: pink;
+} */
+
