@@ -1,0 +1,41 @@
+header  {
+  background-color: #A157F0;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.header-text, #footer {
+  color:#4AF0DC;
+  text-align: center;
+}
+
+.article-title {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: #943EF0;
+  font-size: 40px;
+  /* text-align: center; */
+}
+
+.article-date {
+ font-style: italic;
+}
+
+.article-author  {
+  color: #F41BF5;
+  font-size: 20px;
+}
+
+.article-date {
+  color: #F0966E;
+}
+
+#footer{
+  background-color: #A157F0;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color:#76F03E;
+}

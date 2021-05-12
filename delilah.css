@@ -1,0 +1,32 @@
+.header {
+  text-align: center;
+  color:#760FF5;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.hobbies, .dreams {
+  background-color: #390775;
+  color:#A059F7;
+}
+
+.h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.first {
+  color: #70F527;
+}
+
+.hobbies, .dreams, .bands{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bands {
+  color:#A059F7;
+}
+
+.yuck {
+  text-decoration: line-through;
+}
